@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.miriem.assignment3.bll"},{"l":"com.miriem.assignment3.connection"},{"l":"com.miriem.assignment3.dao"},{"l":"com.miriem.assignment3.models"},{"l":"com.miriem.assignment3.presentation"},{"l":"com.miriem.assignment3.start"}]

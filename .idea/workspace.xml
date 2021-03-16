@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="PT2020_30421_Omer_Miriem_Assignment_3:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0928fc77-ca0b-468e-879a-6a6c6bc1856e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aLXiwMVpzdSNc0ZNTHRt6O5E1u" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="pt2020_30421_omer_miriem_assignment_3" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3448276" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Miri\Desktop\PT2020_30421_Omer_Miriem_Assignment_3\target\classes" />
+      <recent name="C:\Users\Miri\Desktop\PT2020_30421_Omer_Miriem_Assignment_3\target" />
+      <recent name="C:\Users\Miri\Desktop\PT2020_30421_Omer_Miriem_Assignment_3\src\main\resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Miri\Desktop\PT2020_30421_Omer_Miriem_Assignment_3\target\classes" />
+      <recent name="C:\Users\Miri\Desktop\PT2020_30421_Omer_Miriem_Assignment_3\out\artifacts\PT2020_30421_Omer_Miriem_Assignment_3_jar" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn package -release 8" />
+      <command value="mvn clean install" />
+      <command value="mvn install" />
+      <command value="mvn compile" />
+      <command value="mvn clean compile assembly:single  --release 8" />
+      <command value="mvn clean compile assembly:single " />
+      <command value="mvn clean" />
+      <command value="mvn package" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.BUILD JAR">
+    <configuration name="BUILD JAR" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.miriem.assignment3.start.Main" />
+      <module name="PT2020_30421_Omer_Miriem_Assignment_3" />
+      <option name="PROGRAM_PARAMETERS" value="--help" />
+      <shortenClasspath name="MANIFEST" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="assembly:single" />
+      </method>
+    </configuration>
+    <configuration name="Main " type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.miriem.assignment3.start.Main" />
+      <module name="PT2020_30421_Omer_Miriem_Assignment_3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.miriem.assignment3.start.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.BUILD JAR" />
+      <item itemvalue="Application.Main " />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main " />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0928fc77-ca0b-468e-879a-6a6c6bc1856e" name="Default Changelist" comment="" />
+      <created>1586515978080</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586515978080</updated>
+      <workItem from="1586515981455" duration="12006000" />
+      <workItem from="1586594906877" duration="36875000" />
+      <workItem from="1586681355081" duration="29858000" />
+      <workItem from="1586719718745" duration="34000" />
+      <workItem from="1586719820130" duration="5497000" />
+      <workItem from="1586725679112" duration="4338000" />
+      <workItem from="1586764567517" duration="19886000" />
+      <workItem from="1586806187283" duration="45000" />
+      <workItem from="1586806451445" duration="5772000" />
+      <workItem from="1586814808706" duration="1359000" />
+      <workItem from="1588926121567" duration="14619000" />
+      <workItem from="1588944140849" duration="9861000" />
+      <workItem from="1588955501184" duration="79000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="887" y="61" key="#BUILD_JAR" timestamp="1588945398946">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="887" y="61" key="#BUILD_JAR/0.0.1536.824@0.0.1536.824" timestamp="1588945398946" />
+    <state x="485" y="71" key="#Main" timestamp="1586808753188">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="71" key="#Main/0.0.1536.824@0.0.1536.824" timestamp="1586808753188" />
+    <state x="485" y="71" key="#Main_" timestamp="1588926300678">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="71" key="#Main_(1)" timestamp="1588926282643">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="71" key="#Main_(1)/0.0.1536.824@0.0.1536.824" timestamp="1588926282643" />
+    <state x="485" y="71" key="#Main_/0.0.1536.824@0.0.1536.824" timestamp="1588926300678" />
+    <state x="477" y="61" key="#PT2020_30421_Omer_Miriem_Assignment_3.jar" timestamp="1588939790275">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="61" key="#PT2020_30421_Omer_Miriem_Assignment_3.jar/0.0.1536.824@0.0.1536.824" timestamp="1588939790275" />
+    <state x="386" y="132" key="#Project_Structure" timestamp="1588937769678">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="386" y="132" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1588937769678" />
+    <state x="173" y="103" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588945700200">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="173" y="103" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1588945700200" />
+    <state x="517" y="249" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1588931214278">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="517" y="249" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1536.824@0.0.1536.824" timestamp="1588931214278" />
+    <state x="885" y="130" key="#com.intellij.ide.util.MemberChooser" timestamp="1586714756765">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="885" y="130" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1586714756765" />
+    <state x="527" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1588945663030">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="527" y="196" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1588945663030" />
+    <state x="698" y="336" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1586719844826">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="698" y="336" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1586719844826" />
+    <state x="907" y="273" width="403" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1586719612335">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="907" y="273" width="403" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1586719612335" />
+    <state x="404" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586714588981">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="404" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1586714588981" />
+    <state x="717" y="231" width="722" height="593" key="#xdebugger.evaluate" timestamp="1586729046258">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="717" y="231" width="722" height="593" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1586729046258" />
+    <state x="511" y="151" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1588955140771">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="511" y="151" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1588955140771" />
+    <state width="474" height="466" key="DebuggerActiveHint" timestamp="1586713948620">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="474" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1586713948620" />
+    <state x="733" y="177" key="FileChooserDialogImpl" timestamp="1588955137431">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="733" y="177" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588955137431" />
+    <state width="1493" height="166" key="GridCell.Tab.0.bottom" timestamp="1588955265037">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="166" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588955265037" />
+    <state width="1493" height="166" key="GridCell.Tab.0.center" timestamp="1588955265037">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="166" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588955265037" />
+    <state width="1493" height="166" key="GridCell.Tab.0.left" timestamp="1588955265037">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="166" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588955265037" />
+    <state width="1493" height="166" key="GridCell.Tab.0.right" timestamp="1588955265037">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="166" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588955265037" />
+    <state width="1493" height="219" key="GridCell.Tab.1.bottom" timestamp="1588940777853">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="219" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588940777853" />
+    <state width="1493" height="219" key="GridCell.Tab.1.center" timestamp="1588940777853">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="219" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1588940777853" />
+    <state width="1493" height="219" key="GridCell.Tab.1.left" timestamp="1588940777853">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="219" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1588940777853" />
+    <state width="1493" height="219" key="GridCell.Tab.1.right" timestamp="1588940777853">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="219" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1588940777853" />
+    <state x="334" y="59" key="Maven.ArtifactSearchDialog" timestamp="1586809217592">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="334" y="59" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1586809217592" />
+    <state x="218" y="0" width="1168" height="824" key="SettingsEditor" timestamp="1588940329549">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="218" y="0" width="1168" height="824" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1588940329549" />
+    <state x="519" y="281" key="classpath-attribute-editor" timestamp="1588937932950">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="519" y="281" key="classpath-attribute-editor/0.0.1536.824@0.0.1536.824" timestamp="1588937932950" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1586814621976">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1586814621976" />
+    <state x="794" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1588955500195">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="794" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1588955500195" />
+    <state x="840" y="308" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1586808732566">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="840" y="308" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1586808732566" />
+    <state x="209" y="108" key="new project wizard" timestamp="1588932478432">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="108" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1588932478432" />
+    <state x="850" y="36" key="refactoring.ChangeSignatureDialog" timestamp="1586622795030">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="850" y="36" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1586622795030" />
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup" timestamp="1586815413755">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1586815413755" />
+    <state x="599" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1586701870931">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="599" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1586701870931" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PT2020_30421_Omer_Miriem_Assignment_3$.ic" NAME=" Coverage Results" MODIFIED="1588939725236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
+  </component>
+</project>
